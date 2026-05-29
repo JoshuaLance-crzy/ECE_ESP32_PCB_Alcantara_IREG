@@ -8,6 +8,16 @@ This project presents the design and development of a custom ESP32 Expansion PCB
 
 The PCB integrates an ESP32-WROOM-32 module with dedicated GPIO headers, onboard power regulation components, USB Type-C connectivity, and EN/BOOT control buttons. The design process includes schematic creation, PCB routing, component placement, and 3D visualization to ensure electrical reliability and physical compatibility before fabrication.
 
+# PCB_IMAGES/SCREENSHOT
+* # **PCB_LAYOUT**
+<img width="686" height="786" alt="Image" src="https://github.com/user-attachments/assets/741213d3-9449-4a6f-99d8-92f9db0e7be5" />
+
+* # **3D_PCB_VIEW**
+<img width="939" height="898" alt="Image" src="https://github.com/user-attachments/assets/7532d8fe-f5e5-4dc2-911c-28ea32fc9907" />
+
+* # **SCHEMATIC_DIAGRAM**
+<img width="1081" height="761" alt="Image" src="https://github.com/user-attachments/assets/a4181665-c51e-4506-8913-d5874eb48bf3" />
+
 ---
 
 # Features
