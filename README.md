@@ -66,5 +66,5 @@ Joshua Lance D. Alcantara
 
 # Course and Section
 
-ENPHY2 - EN1B
+ENPHY1 - IREG
 ```
